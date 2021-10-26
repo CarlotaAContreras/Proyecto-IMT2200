@@ -1,0 +1,20 @@
+Global-GHG-Emissions-by-sector-based-on-WRI-2020 : 
+https://ourworldindata.org/ghg-emissions-by-sector
+
+methane-emissions per country:
+https://ourworldindata.org/grapher/methane-emissions
+
+methane-emissions-by-sector:
+https://ourworldindata.org/grapher/methane-emissions-by-sector?time=latest&country=~OWID_WRL 
+
+monthly-mehtane per year :
+https://ourworldindata.org/grapher/monthly-atm-ch4?country=~OWID_WRL
+
+population-by-country:
+https://ourworldindata.org/grapher/population-by-country
+
+cattle-livestock-count-heads:
+https://ourworldindata.org/grapher/cattle-livestock-count-heads
+
+ghg-emissions-by-sector:
+https://ourworldindata.org/grapher/ghg-emissions-by-sector?country=~OWID_WRL
